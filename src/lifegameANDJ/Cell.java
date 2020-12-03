@@ -11,7 +11,7 @@ public class Cell {
 		
 	}
 
-	//Any live cell with two or three live neighbours lives on to the next generation.
+	//Any live cell with two or three live neighbours lives on to the next generation. test
 	
 	public void tick() {
 		if ( this.neigbours < 2)
